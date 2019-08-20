@@ -13,6 +13,12 @@
     "name": "Benjamin Dobell",
     "email": "contact@glassechidna.com.au"
   },
+  "contributors": [
+    {
+      "name": "Jon Clucas",
+      "email": "jon.clucas@childmind.org"
+    }
+  ],
   "homepage": "https://github.com/Benjamin-Dobell/react-native-markdown-view",
   "bugs": {
     "url": "https://github.com/Benjamin-Dobell/react-native-markdown-view/issues"
@@ -24,8 +30,8 @@
   "license": "MIT",
   "dependencies": {
     "prop-types": "^15.5.10",
-    "react-native-tabular-grid-markdown-view": "0.1.x",
-    "simple-markdown": "0.3.x"
+    "react-native-tabular-grid-markdown-view": "^0.1.x",
+    "simple-markdown": "^0.4.4"
   },
   "devDependencies": {
     "flow-bin": "^0.36.0"
